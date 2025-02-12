@@ -1,7 +1,9 @@
+import DestinationContainer from "./components/DestinationContainer.jsx"
+
 function App() {
   return (
-    <div>
-      {/* Your code here */}
+    <div style={{backgroundColor: "#545454"}}>
+     <DestinationContainer />
     </div>
   )
 }
